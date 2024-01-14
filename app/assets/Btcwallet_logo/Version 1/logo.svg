@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 592.37 301.48">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: #fbb040;
+      }
+
+      .cls-5 {
+        fill: #2d2d87;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 52.87px;
+      }
+
+      .cls-7, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        font-family: Phosphate-Inline, Phosphate;
+        font-size: 212.47px;
+      }
+
+      .cls-9 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-8 {
+        font-family: AcademyEngravedLetPlain, 'Academy Engraved LET';
+        font-size: 201.92px;
+      }
+
+      .cls-10 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        font-family: Arial-Black, 'Arial Black';
+        font-size: 224.88px;
+        font-weight: 800;
+      }
+
+      .cls-11 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-12 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-13 {
+        letter-spacing: 0em;
+      }
+
+      .cls-14 {
+        letter-spacing: -.01em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <rect class="cls-5" width="592.37" height="301.48"/>
+      <text class="cls-8" transform="translate(229.62 174.66) scale(.99 1)"><tspan x="0" y="0">T</tspan></text>
+      <text class="cls-3" transform="translate(360.16 223.02)"><tspan x="0" y="0">W</tspan></text>
+      <g>
+        <text class="cls-4" transform="translate(66.04 211.96) rotate(3.94)"><tspan x="0" y="0">B</tspan></text>
+        <rect class="cls-2" x="45.44" y="52.5" width="48.07" height="17.09" transform="translate(4.36 -4.63) rotate(3.94)"/>
+        <rect class="cls-2" x="44.47" y="66.65" width="48.07" height="17.09" transform="translate(5.33 -4.53) rotate(3.94)"/>
+        <rect class="cls-2" x="36.72" y="193.59" width="48.07" height="17.09" transform="translate(14.03 -3.7) rotate(3.94)"/>
+        <rect class="cls-2" x="37.77" y="180.16" width="48.07" height="17.09" transform="translate(13.11 -3.8) rotate(3.94)"/>
+        <rect class="cls-2" x="125.31" y="33.29" width="41.13" height="16.65" transform="translate(197.41 -101.06) rotate(93.94)"/>
+        <rect class="cls-2" x="82.29" y="31.49" width="41.13" height="16.65" transform="translate(149.64 -60.06) rotate(93.94)"/>
+        <rect class="cls-2" x="116.79" y="218.38" width="41.13" height="16.65" transform="translate(372.97 105.25) rotate(93.94)"/>
+        <rect class="cls-2" x="70.54" y="216.58" width="41.13" height="16.65" transform="translate(321.74 149.47) rotate(93.94)"/>
+      </g>
+      <text class="cls-7" transform="translate(151.74 278.28)"><tspan x="0" y="0">B</tspan><tspan class="cls-6" x="28.66" y="0">t</tspan><tspan class="cls-10" x="45.84" y="0">c</tspan><tspan class="cls-1" x="69.52" y="0"> </tspan><tspan class="cls-11" x="78.56" y="0">T</tspan><tspan class="cls-13" x="102.46" y="0">r</tspan><tspan x="119.49" y="0">ans</tspan><tspan class="cls-14" x="195.25" y="0">f</tspan><tspan x="210" y="0">er</tspan><tspan class="cls-9" x="253.78" y="0"> </tspan><tspan class="cls-12" x="263.08" y="0">W</tspan><tspan x="306.06" y="0">allet</tspan></text>
+    </g>
+  </g>
+</svg>

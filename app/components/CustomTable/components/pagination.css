@@ -1,0 +1,63 @@
+.pagination {
+  list-style: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin: 0;
+  padding: 0;
+  margin: 20px;
+}
+
+.pagination .page-item {
+  cursor: pointer;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  padding: 12px 0;
+  border-radius: 50%;
+  margin: 0 20px;
+}
+
+.pagination .page-item .page-link {
+  color: #808191;
+}
+
+.pagination .page-item .page-link:hover {
+  color: var(--orange);
+}
+
+.pagination .page-item.active {
+  margin: 0px;
+  background-color: var(--orange);
+}
+
+.pagination .page-item.active .page-link {
+  color: #fff;
+}
+
+.icon__holder {
+  background-color: #fff;
+  text-align: center;
+  padding: 11px 0;
+  -webkit-box-shadow: 0px 15px 44px rgba(0, 0, 0, 0.2);
+          box-shadow: 0px 15px 44px rgba(0, 0, 0, 0.2);
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.icon__holder i {
+  margin: 0;
+  color: #808191;
+}
+
+.icon__holder:hover {
+  -webkit-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+  -webkit-box-shadow: 0px 15px 44px rgba(0, 0, 0, 0.3);
+          box-shadow: 0px 15px 44px rgba(0, 0, 0, 0.3);
+}
+/*# sourceMappingURL=pagination.css.map */

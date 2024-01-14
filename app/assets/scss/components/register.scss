@@ -1,0 +1,14 @@
+#phone_number {
+  max-width: 360px;
+}
+
+@media (min-width: 375px) {
+  #phone_number {
+    width: 142% !important;
+  }
+}
+@media (min-width: 575px) {
+  #phone_number {
+    width: 125% !important;
+  }
+}

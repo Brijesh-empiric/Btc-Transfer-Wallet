@@ -1,0 +1,49 @@
+table {
+  margin-bottom: 0;
+}
+
+table thead tr {
+  background-color: #6c5dd3;
+  color: #ffffff;
+}
+
+table th {
+  white-space: nowrap;
+}
+
+table tr:hover td {
+  background-color: #c4c4c4;
+}
+
+ul.pagination {
+  list-style: none;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+
+ul.pagination li {
+  display: inline;
+}
+
+ul.pagination li.page-item.active a.page-link,
+ul.pagination li.page-item:hover a.page-link {
+  border-radius: 50%;
+  opacity: 1;
+  background-color: #6c5dd3;
+  color: #fff;
+}
+
+ul.pagination li.page-item.active a.page-link {
+  background-color: #ff8704;
+  color: #fff;
+}
+
+ul.pagination li.page-item a.page-link {
+  text-align: center;
+  width: 35px;
+  height: 35px;
+  padding: 12px 15px;
+  margin: 10px 0;
+  opacity: 0.4;
+}
+/*# sourceMappingURL=Table.css.map */

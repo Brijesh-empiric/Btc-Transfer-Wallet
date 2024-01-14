@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap" rel="stylesheet');
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.1);
+}
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background: rgba(0, 0, 0, 0.2);
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 0, 0, 0.4);
+}
+.scroll--simple::-webkit-scrollbar-thumb:active {
+  background: rgba(0, 0, 0, 0.9);
+}
+
+#wrapper {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  min-height: 100vh;
+  background: #f9f9f9;
+  min-width: 375px;
+}
+.trading_view{
+  overflow-x: scroll;
+}
+@import 'base/mixins.scss';
+@import 'base/variables.scss';
+@import 'base/base.scss';
+@import 'components/topNavigation.scss';
+@import 'components//sidebar.scss';
+@import 'components//login.scss';
+@import 'components/dashboard.scss';
+
+@import 'components/website.scss';
