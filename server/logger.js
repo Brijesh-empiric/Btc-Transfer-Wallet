@@ -23,6 +23,8 @@ const logger = {
       console.log(`Tunnel initialised ${chalk.green('✓')}`);
     }
 
+    
+
     console.log(`
 ${chalk.bold('Access URLs:')}${divider}
 Localhost: ${chalk.magenta(`http://${host}:${port}`)}
