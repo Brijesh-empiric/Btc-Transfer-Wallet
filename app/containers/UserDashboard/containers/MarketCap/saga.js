@@ -17,7 +17,7 @@ function* fetchMarketCapGenerator(action) {
   yield fork(
     API.get(
       // `https://uat-users.coinstirs.com/api/customer/v1/wallet/get-coins-list?currentpage=${currentpage}&perpage=${perpage}&currency=usd&pricechangepercent`,
-      `https://btctransferwallet.com/api/get-coins-list?currentpage=${currentpage}&perpage=${perpage}&currency=usd&pricechangepercent`,
+      `https://btctransferwallet.com/api/get-coins-list?currentpage=${currentpage}&perpage=20&currency=usd&pricechangepercent`,
       fetchMarketCapSuccessAction,
       fetchMarketCapFailureAction,
     ),
