@@ -9,7 +9,7 @@ function* getBtcPriceList(action) {
   const { currentpage, perpage } = action.payload;
   yield fork(
     API.get(
-      `https://btctransferwallet.com/api/get-coins-list?currentpage=${currentpage}&perpage=20&currency=usd&pricechangepercent`,
+      `https://btctransferwallet.com/api/get-coins-list?currentpage=${currentpage}&perpage=${perpage}&currency=usd&pricechangepercent`,
       getBtcPriceSuccess,
       getBtcPriceFailure,
     ),

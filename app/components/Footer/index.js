@@ -3,8 +3,7 @@ import { connect } from 'react-redux';
 import { createStructuredSelector } from 'reselect';
 import { Link } from 'react-router-dom';
 // import Logo3 from '../../assets/Btcwallet_logo/Version 3/Btcwallet_logo_3-01.png';
-// import Logo from '../../assets/Btcwallet_logo/Version 4/logo.svg';
-import Logo from '../../assets/Btcwallet_logo/Version 4/logo.png';
+import Logo from '../../assets/Btcwallet_logo/Version 4/logo.svg';
 
 export class Footer extends React.PureComponent {
   _getCurrentYear = () => new Date().getFullYear();
