@@ -265,11 +265,7 @@ class HomePage extends Component {
                     <b>Decentralized</b>
                   </figcaption>
                   <p style={{ color: '#FF9A00' }}>
-                    A key element of bitcoin is its decentralized status,
-                    meaning that it is not controlled or regulated by any
-                    central authority. This immediately distinguishes it from
-                    fiat currencies. Bitcoins are not issued by a central bank
-                    or government system like fiat currencies.
+                  Bitcoin is characterized by its decentralized nature, setting it apart from traditional fiat currencies which are controlled and regulated by central authorities. Unlike fiat currencies, bitcoins are not issued by governmental institutions or central banks.
                   </p>
                 </div>
               </div>
@@ -282,11 +278,7 @@ class HomePage extends Component {
                     <b>It is a better way to move money</b>
                   </figcaption>
                   <p style={{ color: '#FF9A00' }}>
-                    All over the world people make use of bitcoin to send money
-                    to friends and family, buy things online, or even send
-                    anonymous transactions. It can be easier, faster,
-                    untraceable and requires a very low transaction fee compared
-                    to the use of ordinary money.
+                  Bitcoin is utilized globally for sending money, making online purchases, and anonymous transactions due to its ease, speed, low fees, and untraceability.
                   </p>
                 </div>
               </div>
@@ -299,11 +291,7 @@ class HomePage extends Component {
                     <b>Pseudonymous</b>
                   </figcaption>
                   <p style={{ color: '#FF9A00' }}>
-                    Bitcoin transactions are protected by cryptography. This is
-                    a type of encryption technology that hides the identity of
-                    the sender and receiver involved in the transaction. That’s
-                    why Bitcoin and cryptocurrencies in general are considered
-                    pseudonymous.
+                  Bitcoin transactions are protected by cryptography, which hides the identities of the sender and receiver, making them pseudonymous.
                   </p>
                 </div>
               </div>
