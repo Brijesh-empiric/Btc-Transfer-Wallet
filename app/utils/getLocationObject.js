@@ -8,7 +8,6 @@ const getLocationObject = data => {
   let latitude = 37.7749295;
   let longitude = -122.41941550000001;
   let placeIdVal = "";
-
   let placeLabel = "";
 
   if(data) {

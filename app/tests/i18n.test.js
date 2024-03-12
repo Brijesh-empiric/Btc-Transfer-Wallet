@@ -10,7 +10,6 @@ const esTranslationMessages = {
   message2: '',
 };
 
-
 describe('formatTranslationMessages', () => {
   it('should build only defaults when DEFAULT_LOCALE', () => {
     const result = formatTranslationMessages('en', { a: 'a' });

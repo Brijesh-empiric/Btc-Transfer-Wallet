@@ -10,8 +10,6 @@ import createSagaMiddleware from 'redux-saga';
 import createReducer from './reducers';
 import globalSagas from 'containers/App/saga';
 
-
-
 const sagaMiddleware = createSagaMiddleware();
 
 const tokenExpiration = store => next => action => {

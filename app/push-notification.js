@@ -1,8 +1,6 @@
 import * as firebase from 'firebase/app';
 import 'firebase/messaging';
 
-
-
 export const initializeFirebase = () => {
   firebase.initializeApp({
     apiKey: 'AIzaSyANTAV1KlnkozCA2HGS8Emee_nFFbE6_ig',

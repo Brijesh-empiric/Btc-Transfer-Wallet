@@ -168,7 +168,7 @@ function* logoutUser() {
 function* getBtcPriceList(action) {
   yield fork(
     Api.get(
-      `https://btctransferwallet.com/api/get-coins-list?currentpage=1&perpage=20&currency=usd&pricechangepercent`,
+      `https://btctransferwallet.com/api/get-coins-list?currentpage=1&perpage=10&currency=usd&pricechangepercent`,
       actions.getBtcPriceSuccess,
       actions.getBtcPriceFailure,
     ),
